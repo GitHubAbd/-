@@ -1,0 +1,29 @@
+#dordaxamir {
+  width: auto;
+  height: 50px;
+  font-size: 35px;
+  flex-direction: column;
+  color: rgb(255, 0, 0);
+  background: rgb(217, 255, 0);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  transition: 0.3s;
+  text-align: center;
+  border-radius: 30px;
+}
+#dordaxamir:hover {
+  background: greenyellow;
+  color: firebrick;
+  transition: 0.3s;
+}
+#title {
+  width: 300px;
+  height: 40px;
+  color: chartreuse;
+  background: yellow;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  transition: 0.3s;
+  font-size: 30px;
+  border-radius: 30px;
+  border: none;
+  margin: 20px;
+}
